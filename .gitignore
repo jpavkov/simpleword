@@ -1,5 +1,6 @@
 .htaccess
 .DS_Store
+vagrant/
 wp-config.php
 wp-content/uploads/
 wp-content/advanced-cache.php
@@ -10,6 +11,7 @@ sitemap.xml
 wp-content/cache/
 wp-content/backups/
 sitemap.xml.gz
+wp-content/w3tc-config
 .sass-cache
 node_modules
 temp
@@ -25,3 +27,4 @@ wp-content/db.php
 wp-content/object-cache.php
 .idea/
 *.iml
+
