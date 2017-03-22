@@ -1,0 +1,27 @@
+.htaccess
+.DS_Store
+wp-config.php
+wp-content/uploads/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+sitemap.xml
+*.log
+.config
+wp-content/cache/
+wp-content/backups/
+sitemap.xml.gz
+.sass-cache
+node_modules
+temp
+
+# Ignore cache
+wp-content/themes/go/app/.bundle
+wp-content/themes/go/app/.cache
+wp-content/themes/go/app/assets/img/sprites-*.png
+wp-content/themes/go/app/build/
+wp-content/themes/go/app/assets/js/vendor/
+nginx.conf
+wp-content/db.php
+wp-content/object-cache.php
+.idea/
+*.iml
